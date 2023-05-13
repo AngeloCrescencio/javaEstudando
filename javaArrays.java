@@ -3,6 +3,8 @@ public class javaArrays {
 
     System.out.println("Arrays");
 
+    // teste para ver se salva no git
+
     int[] notas;
     notas = new int[2];
     notas[0] = 9;
