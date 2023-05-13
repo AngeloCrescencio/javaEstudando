@@ -1,0 +1,29 @@
+# Arquivos de compilação
+*.class
+
+# Pacotes gerados por IDEs
+/.idea/
+/.vscode/
+/.project
+/.classpath
+
+# Arquivos de build
+/target/
+/build/
+
+# Arquivos de configuração específicos da IDE
+/*.iml
+/.settings/
+/.factorypath
+
+# Logs e arquivos temporários
+/log/
+/temp/
+
+# Dependências do Maven
+/.m2/
+
+# Arquivos gerados por ferramentas de documentação
+/doc/
+
+# Outros arquivos e diretórios específicos do seu projeto
